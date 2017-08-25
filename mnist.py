@@ -1,3 +1,5 @@
+# Written with reference to https://pythonprogramming.net/tensorflow-deep-neural-network-machine-learning-tutorial/?completed=/tensorflow-introduction-machine-learning-tutorial/
+
 import tensorflow as tf
 from tensorflow.examples.tutorials.mnist import input_data
 
