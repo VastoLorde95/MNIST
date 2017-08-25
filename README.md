@@ -1,5 +1,5 @@
 --------------------------
-TensorFlow MNIST Tutorial
+TensorFlow MNIST Dataset Tutorial
 --------------------------
 
 Placeholder repo to try some stuff out.
